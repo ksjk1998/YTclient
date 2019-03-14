@@ -7,16 +7,30 @@ to navigate, use the j and k keys to go down and up respectfully. use the m key 
 
 todo:
 make a better algorithm:
+
  live updates
+ 
  shorter load times
+ 
  more accurately reflect your sub feed
+ 
 implement scrolling
+
 navigate the entirety of youtube, or at least as much as possible that youtube provides. mainly including:
+
  comment sections
+ 
  search
+ 
  playlists
+ 
  browsing channels, weather they're ones you've subscribed to or not
+ 
  Recommended feed?
+ 
  trending?
+ 
  suggested topics?
+ 
 include extra neat tools provided by the API
+
