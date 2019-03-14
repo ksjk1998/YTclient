@@ -7,31 +7,31 @@ to navigate, use the j and k keys to go down and up respectfully. use the m key 
 
 todo:
 
-*make a better algorithm:
+* make a better algorithm:
 
-**live updates
+ * live updates
  
- **shorter load times
+ * shorter load times
  
-**more accurately reflect your sub feed
+ * more accurately reflect your sub feed
  
-*implement scrolling
+* implement scrolling
 
-*navigate the entirety of youtube, or at least as much as possible that youtube provides. mainly including:
+* navigate the entirety of youtube, or at least as much as possible that youtube provides. mainly including:
 
-**comment sections
+ * comment sections
  
-**search
+ * search
  
-**playlists
+ * playlists
  
-**browsing channels, weather they're ones you've subscribed to or not
+ * browsing channels, weather they're ones you've subscribed to or not
  
-**Recommended feed?
+ * Recommended feed?
  
-**trending?
+ * trending?
  
-**suggested topics?
+ * suggested topics?
  
-*include extra neat tools provided by the API
+* include extra neat tools provided by the API
 
