@@ -1,5 +1,4 @@
 # YTclient
-simple youtube client using ncurses. browses your sub feed
 
 to execute via shell, python /path/to/YTclient/YTclient.py, copy the link provided, open it in a browser, login, copy text back into the terminal and wait a long time.
 
