@@ -11,5 +11,12 @@ make a better algorithm:
  shorter load times
  more accurately reflect your sub feed
 implement scrolling
-navigate the entirety of youtube, or at least as much as possible that youtube provides
+navigate the entirety of youtube, or at least as much as possible that youtube provides. mainly including:
+ comment sections
+ search
+ playlists
+ browsing channels, weather they're ones you've subscribed to or not
+ Recommended feed?
+ trending?
+ suggested topics?
 include extra neat tools provided by the API
