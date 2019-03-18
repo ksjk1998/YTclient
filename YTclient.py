@@ -7,7 +7,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from google_auth_oauthlib.flow import InstalledAppFlow
 
-CLIENT_SECRETS_FILE = "/run/media/k/SBP/home/k/Projects/YTclient/client_secret_477034682950-ma45nt994mr7258a7jilfd0jgpn90nm3.apps.googleusercontent.com.json"
+CLIENT_SECRETS_FILE = "./client_secret_477034682950-ma45nt994mr7258a7jilfd0jgpn90nm3.apps.googleusercontent.com.json"
 SCOPES = ['https://www.googleapis.com/auth/youtube']
 API_SERVICE_NAME = 'youtube'
 API_VERSION = 'v3'
